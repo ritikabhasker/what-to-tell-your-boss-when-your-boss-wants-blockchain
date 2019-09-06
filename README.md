@@ -22,7 +22,7 @@ _What is blockchain_
 _But do I need blockchain?_
 Probably not! The majority of the issues that you think you need blockchain for can be solved by a centralised database with version control. Or to put it in a tongue-in-cheek way:
 
-![Sarah Jeong on blockchain](jeong.png)
+![Sarah Jeong on blockchain](jeong.PNG)
 
 _OK, so what do I say to my boss?_
 - Ask your boss if a spreadsheet will solve the problem at hand!
