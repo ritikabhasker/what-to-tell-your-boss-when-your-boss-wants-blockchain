@@ -12,7 +12,7 @@ Before implementing any new technology, there are several key questions to ask:
 
 Here are a few technology solutions, definitions of what they are, and a couple of examples of why you DON'T want to use them.
 
-#### Blockchain
+# Blockchain
 _What is blockchain_
 - Blockchain is a digital public ledger of permanent, tamper-proof records of data.
 - Blockchain is a decentralized database.
@@ -28,3 +28,5 @@ _OK, so what do I say to my boss?_
 - Ask your boss if a spreadsheet will solve the problem at hand!
 - Mention how computationally expensive blockchain is [(as well as all the other limitations others have talked about!)](https://www.coindesk.com/information/blockchains-issues-limitations)
 - Refer to some of the fantastic resources that answer this question, like [this one](https://medium.com/@elseidy/to-blockchain-or-to-not-blockchain-40e6a3a60f46). It even has a flowchart!
+
+The bottom line is, blockchain is a great solution for a very, very specific problem. International development projects for the most part aren't working in this problem and probably don't need blockchain solutions.
